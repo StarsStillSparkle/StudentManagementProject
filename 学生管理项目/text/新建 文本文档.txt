@@ -1,0 +1,34 @@
+string folderPath = @"D:\code\C#\学生管理项目\text"; // 文件夹路径
+        string fileName = "output.json"; // 文件名
+        string filePath = Path.Combine(folderPath, fileName);
+
+        if (!File.Exists(filePath))
+        {
+            Console.WriteLine("\n文件不存在");
+            return;
+        }
+
+        try
+        {
+            // 读取 JSON 文件
+            string json = File.ReadAllText(filePath);
+
+            // 将 JSON 字符串转化为 JArray
+            JArray jsonArray = JArray.Parse(json);
+            List<Student> students = new List<Student>();
+
+            foreach (JToken token in jsonArray)
+            {
+                JObject obj = (JObject)token;
+                // 创建 Student，并传入 JObject 进行初始化
+                Student student = new Student(obj);
+                // 将 Student 添加到集合中
+                students.Add(student);
+            }
+
+            Console.WriteLine($"读取完成: {filePath}");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"读取出错: {e.Message}");
+        }

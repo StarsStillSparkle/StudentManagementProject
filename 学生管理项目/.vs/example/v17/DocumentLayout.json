@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|d:\\code\\c#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\cmd\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\cmd\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|d:\\code\\c#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\student\\studentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\student\\studentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\cmd\\cmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\cmd\\cmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\cmd\\cmd1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\cmd\\cmd1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\cmd\\cmd2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\cmd\\cmd2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|d:\\code\\c#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\cmd\\cmd3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\cmd\\cmd3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\cmd\\cmd4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\cmd\\cmd4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\cmd\\cmdmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\cmd\\cmdmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|d:\\code\\c#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89884B27-F8E5-47CD-A60C-6385C71E52DA}|example\\example.csproj|solutionrelative:example\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Util.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Util.cs",
+              "RelativeDocumentMoniker": "example\\Cmd\\Util.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Util.cs",
+              "RelativeToolTip": "example\\Cmd\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:53:49.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Program.cs",
+              "RelativeDocumentMoniker": "example\\Program.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Program.cs",
+              "RelativeToolTip": "example\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:25:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Student\\Student.cs",
+              "RelativeDocumentMoniker": "example\\Student\\Student.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Student\\Student.cs",
+              "RelativeToolTip": "example\\Student\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:24:53.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CmdManager.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\CmdManager.cs",
+              "RelativeDocumentMoniker": "example\\Cmd\\CmdManager.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\CmdManager.cs",
+              "RelativeToolTip": "example\\Cmd\\CmdManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:24:52.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentSystem.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Student\\StudentSystem.cs",
+              "RelativeDocumentMoniker": "example\\Student\\StudentSystem.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Student\\StudentSystem.cs",
+              "RelativeToolTip": "example\\Student\\StudentSystem.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:03:31.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cmd1.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd1.cs",
+              "RelativeDocumentMoniker": "example\\Cmd\\Cmd1.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd1.cs",
+              "RelativeToolTip": "example\\Cmd\\Cmd1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:24:38.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cmd2.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd2.cs",
+              "RelativeDocumentMoniker": "example\\Cmd\\Cmd2.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd2.cs",
+              "RelativeToolTip": "example\\Cmd\\Cmd2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:24:39.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cmd3.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd3.cs",
+              "RelativeDocumentMoniker": "example\\Cmd\\Cmd3.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd3.cs",
+              "RelativeToolTip": "example\\Cmd\\Cmd3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:41:42.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cmd4.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd4.cs",
+              "RelativeDocumentMoniker": "example\\Cmd\\Cmd4.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd4.cs",
+              "RelativeToolTip": "example\\Cmd\\Cmd4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:24:40.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cmd5.cs",
+              "DocumentMoniker": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd5.cs",
+              "RelativeDocumentMoniker": "example\\Cmd\\Cmd5.cs",
+              "ToolTip": "D:\\code\\C#\\\u5B66\u751F\u7BA1\u7406\u9879\u76EE\\example\\Cmd\\Cmd5.cs",
+              "RelativeToolTip": "example\\Cmd\\Cmd5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:24:51.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
