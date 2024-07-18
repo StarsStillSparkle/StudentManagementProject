@@ -19,7 +19,7 @@ namespace example.Cmd
                     return value;
                 }
 
-                Console.WriteLine("Invalid input"); // 无效输入提示
+                Console.WriteLine("Invalid input1123"); // 无效输入提示
             }
         }
 
