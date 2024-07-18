@@ -8,7 +8,7 @@ namespace CmdSystem
 
         public void HandleCmd()
         {
-            studentSystem.StoreStudentData(); // 读取学生数据
+            studentSystem.ReadStudentData(); // 读取学生数据
         }
     }
 }
